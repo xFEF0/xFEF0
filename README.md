@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring)
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
-![Maven](https://img.shields.io/badge/-Maven-111111?style=flat&logo=apache-maven&logoColor=F05032)
-![Gradle](https://img.shields.io/badge/-Gradle-111111?style=flat&logo=gradle&logoColor=F05032)
+![Maven](https://img.shields.io/badge/-Maven-111111?style=flat&logo=apache-maven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/-Gradle-111111?style=flat&logo=gradle&logoColor=02303A)
 
 
 ### Social:
